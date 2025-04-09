@@ -7,9 +7,6 @@ This repository contains a data analysis project focused on providing insights f
 
 This project serves as a portfolio piece demonstrating skills in data analysis, visualization, and insight generation.
 
-![image](https://github.com/user-attachments/assets/eb334e6b-9828-473b-8231-a3deab7f63c5)
-
-
 ##   Key Analysis Areas
 
 The analysis focuses on several key areas to guide investment decisions:
@@ -43,3 +40,5 @@ The analysis revealed several key insights for optimizing Airbnb property invest
 ##   Dashboard
 
 An interactive dashboard was created to visualise and compare performance metrics such as discounts, occupancy rates, and revenue across different bedroom configurations.  This tool enables data-driven decision-making for pricing strategies.
+
+![image](https://github.com/user-attachments/assets/eb334e6b-9828-473b-8231-a3deab7f63c5)
