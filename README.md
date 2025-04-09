@@ -5,7 +5,10 @@
 
 This repository contains a data analysis project focused on providing insights for profitable Airbnb property investments. The analysis leverages Airbnb data from Kaggle to explore key trends in pricing, revenue, and discounts, ultimately aiming to advise a client on maximizing their returns. 
 
-This project serves as a portfolio piece demonstrating skills in data analysis, visualization, and insight generation. T
+This project serves as a portfolio piece demonstrating skills in data analysis, visualization, and insight generation.
+
+![image](https://github.com/user-attachments/assets/eb334e6b-9828-473b-8231-a3deab7f63c5)
+
 
 ##   Key Analysis Areas
 
